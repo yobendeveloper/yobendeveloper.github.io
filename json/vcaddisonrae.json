@@ -1,7 +1,7 @@
 {
   "Ads": [
       {
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/developer?id=MURID+DEVELOPER",
       
       "select_ads": "ADMOB",
