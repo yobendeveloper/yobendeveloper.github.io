@@ -1,0 +1,271 @@
+{
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Betrand Peto",
+      "image":"https://petanidolar.github.io/img/betrandpeto.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.betrandpeto"
+    },
+    {
+      "id":2,
+      "title":"Harris Vriza",
+      "image":"https://petanidolar.github.io/img/harrisvriza.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.harrisvriza"
+    },
+    {
+      "id":3,
+      "title":"Arya Saloka",
+      "image":"https://petanidolar.github.io/img/aryasaloka.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.aryasaloka"
+    },
+    {
+      "id":4,
+      "title":"Nissa Sabyan",
+      "image":"https://petanidolar.github.io/img/nissasabyan.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.nissasabyan"
+    },
+    {
+      "id":5,
+      "title":"Park Seo-Joon",
+      "image":"https://petanidolar.github.io/img/parkseojoon.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.parkseojoon"
+    },
+    {
+      "id":6,
+      "title":"Ria Ricis",
+      "image":"https://petanidolar.github.io/img/riaricis.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.riaricis"
+    },
+    {
+      "id":7,
+      "title":"Rizky Febian",
+      "image":"https://petanidolar.github.io/img/rizkyfebian.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.rizkyfebian"
+    },
+    {
+      "id":8,
+      "title":"Song Joong Ki",
+      "image":"https://petanidolar.github.io/img/songjoongki.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.songjoongki"
+    },
+    {
+      "id":9,
+      "title":"Amanda Manopo",
+      "image":"https://petanidolar.github.io/img/amandamanopo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.amandamanopo"
+    },
+    {
+      "id":10,
+      "title":"Tiara Andini",
+      "image":"https://petanidolar.github.io/img/tiaraandini.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.tiaraandini"
+    },
+    {
+      "id":11,
+      "title":"Alwi Assegaf",
+      "image":"https://petanidolar.github.io/img/alwiassegaf.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.alwiassegaf"
+    },
+    {
+      "id":12,
+      "title":"Anya Geraldine",
+      "image":"https://petanidolar.github.io/img/anyageraldine.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.anyageraldine"
+    },
+    {
+      "id":13,
+      "title":"Aurelie Moeremans",
+      "image":"https://petanidolar.github.io/img/aurelie.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.aureliemoeremans"
+    },
+    {
+      "id":14,
+      "title":"Baim Wong",
+      "image":"https://petanidolar.github.io/img/baimwong.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.baimwong"
+    },
+    {
+      "id":15,
+      "title":"Jennie Blackpink",
+      "image":"https://petanidolar.github.io/img/bpjennie.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinkjennie"
+    },
+    {
+      "id":16,
+      "title":"Jisoo Blackpink",
+      "image":"https://petanidolar.github.io/img/bpjisoo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinkjisoo"
+    },
+    {
+      "id":17,
+      "title":"Lisa Blackpink",
+      "image":"https://petanidolar.github.io/img/bplisa.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinklisa"
+    },
+    {
+      "id":17,
+      "title":"Rose Blackpink",
+      "image":"https://petanidolar.github.io/img/bprose.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinkrose"
+    },
+    {
+      "id":18,
+      "title":"J-Hope BTS",
+      "image":"https://petanidolar.github.io/img/btsjhope.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjhope"
+    },
+    {
+      "id":19,
+      "title":"Jimin BTS",
+      "image":"https://petanidolar.github.io/img/btsjimin.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjimin"
+    },
+    {
+      "id":20,
+      "title":"Jin BTS",
+      "image":"https://petanidolar.github.io/img/btsjin.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjin"
+    },
+    {
+      "id":21,
+      "title":"Jungkook BTS",
+      "image":"https://petanidolar.github.io/img/btsjungkook.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjungkook"
+    },
+    {
+      "id":22,
+      "title":"RM BTS",
+      "image":"https://petanidolar.github.io/img/btsrm.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsrm"
+    },
+    {
+      "id":23,
+      "title":"Suga BTS",
+      "image":"https://petanidolar.github.io/img/btssuga.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btssuga"
+    },
+    {
+      "id":24,
+      "title":"Taehyung BTS",
+      "image":"https://petanidolar.github.io/img/btstaehyung.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btstaehyung"
+    },
+    {
+      "id":25,
+      "title":"Cristiano Ronaldo",
+      "image":"https://petanidolar.github.io/img/ronaldo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.ronaldo"
+    },
+    {
+      "id":26,
+      "title":"Baekhyun EXO",
+      "image":"https://petanidolar.github.io/img/exbaekhyun.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exbaekhyun"
+    },
+    {
+      "id":27,
+      "title":"Chanyeol EXO",
+      "image":"https://petanidolar.github.io/img/exchanyeol.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exchanyeol"
+    },
+    {
+      "id":28,
+      "title":"D.O. EXO",
+      "image":"https://petanidolar.github.io/img/exdo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exdo"
+    },
+    {
+      "id":29,
+      "title":"Kai EXO",
+      "image":"https://petanidolar.github.io/img/exkai.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exkai"
+    },
+    {
+      "id":30,
+      "title":"Zhang Yixing EXO",
+      "image":"https://petanidolar.github.io/img/exlay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exlay"
+    },
+    {
+      "id":31,
+      "title":"Sehun EXO",
+      "image":"https://petanidolar.github.io/img/exsehun.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exsehun"
+    },
+    {
+      "id":32,
+      "title":"Suho EXO",
+      "image":"https://petanidolar.github.io/img/exsuho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exsuho"
+    },
+    {
+      "id":33,
+      "title":"Khabib Nurmagomedov",
+      "image":"https://petanidolar.github.io/img/khabib.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.khabib"
+    },
+    {
+      "id":34,
+      "title":"Kim Seon Ho",
+      "image":"https://petanidolar.github.io/img/kimseonho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.kimseonho"
+    },
+    {
+      "id":35,
+      "title":"Kylie Jenner",
+      "image":"https://petanidolar.github.io/img/kylie.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.kylie"
+    },
+    {
+      "id":36,
+      "title":"Lee Min Ho",
+      "image":"https://petanidolar.github.io/img/leeminho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.leeminho"
+    },
+    {
+      "id":37,
+      "title":"Lee Donghae",
+      "image":"https://petanidolar.github.io/img/leedonghae.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.leedonghae"
+    },
+    {
+      "id":38,
+      "title":"Leeteuk",
+      "image":"https://petanidolar.github.io/img/leeteuk.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.leeteuk"
+    },
+    {
+      "id":39,
+      "title":"NAY (Naisa Alifia Yuriza)",
+      "image":"https://petanidolar.github.io/img/nay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.naisaalifiayuriza"
+    },
+    {
+      "id":40,
+      "title":"Sandrinna and Rey Bong",
+      "image":"https://petanidolar.github.io/img/sandrinnaandreybong.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.sandrinnaandreybong"
+    },
+    {
+      "id":41,
+      "title":"Siwon Choi",
+      "image":"https://petanidolar.github.io/img/siwonchoi.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.siwonchoi"
+    },
+    {
+      "id":42,
+      "title":"Via Vallen",
+      "image":"https://petanidolar.github.io/img/viavallen.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.viavallen"
+    },
+    {
+      "id":43,
+      "title":"Yesung",
+      "image":"https://petanidolar.github.io/img/yesung.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.yesung"
+    }
+  ]
+
+}
