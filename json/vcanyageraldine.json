@@ -1,0 +1,23 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      
+      "backup_mode": "0",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      
+      "admob_inter": "YOUR_PLACEMENT_ID",
+      "admob_native": "YOUR_PLACEMENT_ID",
+
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+
+      "startappid": "205065498",
+      "interval":4
+      }
+   ]
+
+}
