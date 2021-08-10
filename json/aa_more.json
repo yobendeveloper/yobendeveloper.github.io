@@ -28,13 +28,25 @@
       "image":"https://yobendeveloper.github.io/img/vcalyssadezek.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcalyssadezek"
     },
+    {
+      "id": 55,
+      "title":"Jennie BLACKPINK",
+      "image":"https://yobendeveloper.github.io/img/vcblackpinkjennie.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcblackpinkjennie"
+    },
 
     
     {
-      "id": 101,
+      "id": 100,
       "title":"Alwi Assegaf",
       "image":"https://yobendeveloper.github.io/img/vcalwiassegaf.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcalwiassegaf"
+    },
+    {
+      "id": 101,
+      "title":"Betrand Peto",
+      "image":"https://yobendeveloper.github.io/img/vcbetrandpeto.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcbetrandpeto"
     },
     {
       "id": 102,
