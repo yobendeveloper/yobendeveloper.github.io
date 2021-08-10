@@ -8,8 +8,8 @@
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
       
-      "admob_inter": "ca-app-pub-9242128344326667/6613687536",
-      "admob_native": "ca-app-pub-9242128344326667/6494268030",
+      "admob_inter": "YOUR_PLACEMENT_ID",
+      "admob_native": "YOUR_PLACEMENT_ID",
 
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
