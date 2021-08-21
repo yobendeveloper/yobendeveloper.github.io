@@ -4,13 +4,13 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
-      "more_app": "0",
+      "more_app": "1",
       "backup_mode": "0",
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
       
-      "admob_inter": "YOUR_PLACEMENT_ID",
-      "admob_native": "YOUR_PLACEMENT_ID",
+      "admob_inter": "ca-app-pub-9242128344326667/7161735458",
+      "admob_native": "ca-app-pub-9242128344326667/3222490447",
 
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
