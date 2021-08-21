@@ -22,9 +22,15 @@
     },
     {
       "id": 3,
-      "title":"Charli D'Amelio",
+      "title":"CharliD'Amelio",
       "image":"https://yobendeveloper.github.io/img/vccharlidamelio.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vccharlidamelio"
+    },
+    {
+      "id": 4,
+      "title":"Domelipa",
+      "image":"https://yobendeveloper.github.io/img/vcdomelipa.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcdomelipa"
     },
     {
       "id": 6,
@@ -111,51 +117,69 @@
     },
     {
       "id": 102,
-      "title":"Anya Geraldine",
-      "image":"https://yobendeveloper.github.io/img/vcanyageraldine.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcanyageraldine"
-    },
-    {
-      "id": 103,
-      "title":"Amanda Manopo",
-      "image":"https://yobendeveloper.github.io/img/vcamandamanopo.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcamandamanopo"
-    },
-    {
-      "id": 104,
-      "title":"Arya Saloka",
-      "image":"https://yobendeveloper.github.io/img/vcaryasaloka.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcaryasaloka"
-    },
-    {
-      "id": 105,
-      "title":"Baim Wong",
-      "image":"https://yobendeveloper.github.io/img/vcbaimwong.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcbaimwong"
-    },
-    {
-      "id": 106,
-      "title":"Aurelie Moeremans",
-      "image":"https://yobendeveloper.github.io/img/vcaureliemoeremans.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcaureliemoeremans"
-    },
-    {
-      "id": 107,
       "title":"Cahyaniryn",
       "image":"https://yobendeveloper.github.io/img/vccahyaniryn.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vccahyaniryn"
     },
     {
-      "id": 108,
+      "id": 103,
+      "title":"FrostDiamond",
+      "image":"https://yobendeveloper.github.io/img/vcfrostdiamond.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcfrostdiamond"
+    },
+    {
+      "id": 104,
+      "title":"Amanda Manopo",
+      "image":"https://yobendeveloper.github.io/img/vcamandamanopo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcamandamanopo"
+    },
+    {
+      "id": 105,
+      "title":"Arya Saloka",
+      "image":"https://yobendeveloper.github.io/img/vcaryasaloka.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcaryasaloka"
+    },
+    {
+      "id": 106,
+      "title":"Baim Wong",
+      "image":"https://yobendeveloper.github.io/img/vcbaimwong.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcbaimwong"
+    },
+    {
+      "id": 107,
       "title":"Cinta Brian",
       "image":"https://yobendeveloper.github.io/img/vccintabrian.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vccintabrian"
     },
     {
-      "id": 109,
+      "id": 108,
       "title":"Zoe Abbas Jackson",
       "image":"https://yobendeveloper.github.io/img/vczoeabbasjackson.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vczoeabbasjackson"
+    },
+    {
+      "id": 110,
+      "title":"Dini LIDA",
+      "image":"https://yobendeveloper.github.io/img/vcdinilida.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcdinilida"
+    },
+    {
+      "id": 111,
+      "title":"Wahyu Kadeo",
+      "image":"https://yobendeveloper.github.io/img/vcwahyukadeo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcwahyukadeo"
+    },
+    {
+      "id": 113,
+      "title":"Anya Geraldine",
+      "image":"https://yobendeveloper.github.io/img/vcanyageraldine.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcanyageraldine"
+    },
+    {
+      "id": 114,
+      "title":"Aurelie Moeremans",
+      "image":"https://yobendeveloper.github.io/img/vcaureliemoeremans.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcaureliemoeremans"
     }
   ]
 
