@@ -33,6 +33,12 @@
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcdomelipa"
     },
     {
+      "id": 5,
+      "title":"Giovanna Alparone",
+      "image":"https://yobendeveloper.github.io/img/vcgiovannaalparone.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcgiovannaalparone"
+    },
+    {
       "id": 6,
       "title":"Ronaldo",
       "image":"https://yobendeveloper.github.io/img/vccristianoronaldo.jpg",
