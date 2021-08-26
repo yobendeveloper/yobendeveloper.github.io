@@ -40,6 +40,18 @@
     },
     {
       "id": 6,
+      "title":"Karol G",
+      "image":"https://yobendeveloper.github.io/img/vckarolg.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckarolg"
+    },
+    {
+      "id": 6,
+      "title":"Karol Sevilla",
+      "image":"https://yobendeveloper.github.io/img/vckarolsevilla.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckarolsevilla"
+    },
+    {
+      "id": 6,
       "title":"Ronaldo",
       "image":"https://yobendeveloper.github.io/img/vccristianoronaldo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vccristianoronaldo"
@@ -234,6 +246,12 @@
       "title":"Gisella Anastasya",
       "image":"https://yobendeveloper.github.io/img/vcgisellaanastasya.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcgisellaanastasya"
+    },
+    {
+      "id": 116,
+      "title":"Harris Vriza",
+      "image":"https://yobendeveloper.github.io/img/vcharrisvriza.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcharrisvriza"
     }
   ]
 
