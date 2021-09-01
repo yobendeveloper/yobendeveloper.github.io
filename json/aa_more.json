@@ -45,16 +45,46 @@
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckarolg"
     },
     {
-      "id": 6,
+      "id": 7,
       "title":"Karol Sevilla",
       "image":"https://yobendeveloper.github.io/img/vckarolsevilla.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckarolsevilla"
     },
     {
-      "id": 6,
+      "id": 8,
       "title":"Ronaldo",
       "image":"https://yobendeveloper.github.io/img/vccristianoronaldo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vccristianoronaldo"
+    },
+    {
+      "id": 9,
+      "title":"Khabib Nurmagomedov",
+      "image":"https://yobendeveloper.github.io/img/vckhabibnurmagomedov.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckhabibnurmagomedov"
+    },
+    {
+      "id": 10,
+      "title":"Khaby Lame",
+      "image":"https://yobendeveloper.github.io/img/vckhabylame.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckhabylame"
+    },
+    {
+      "id": 11,
+      "title":"Kim Loaiza",
+      "image":"https://yobendeveloper.github.io/img/vckimberlyloaiza.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckimberlyloaiza"
+    },
+    {
+      "id": 12,
+      "title":"Kylie Jenner",
+      "image":"https://yobendeveloper.github.io/img/vckyliejenner.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckyliejenner"
+    },
+    {
+      "id": 13,
+      "title":"Lady Diana",
+      "image":"https://yobendeveloper.github.io/img/vcladydiana.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcladydiana"
     },
 
 
@@ -155,6 +185,30 @@
       "image":"https://yobendeveloper.github.io/img/vcexosuho.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcexosuho"
     },
+    {
+      "id": 68,
+      "title":"Kim Seon Ho",
+      "image":"https://yobendeveloper.github.io/img/vckimseonho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vckimseonho"
+    },
+    {
+      "id": 69,
+      "title":"Lee Donghae",
+      "image":"https://yobendeveloper.github.io/img/vcleedonghae.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcleedonghae"
+    },
+    {
+      "id": 70,
+      "title":"Leeteuk",
+      "image":"https://yobendeveloper.github.io/img/vcleeteuk.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcleeteuk"
+    },
+    {
+      "id": 71,
+      "title":"Lee Min-ho",
+      "image":"https://yobendeveloper.github.io/img/vcleeminho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcleeminho"
+    },
 
     
     {
@@ -252,6 +306,12 @@
       "title":"Harris Vriza",
       "image":"https://yobendeveloper.github.io/img/vcharrisvriza.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcharrisvriza"
+    },
+    {
+      "id": 117,
+      "title":"Lesti Kejora",
+      "image":"https://yobendeveloper.github.io/img/vclestikejora.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vclestikejora"
     }
   ]
 
