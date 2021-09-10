@@ -230,10 +230,22 @@
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcmuhammadhadi"
     },
     {
-      "id": 100,
+      "id": 97,
       "title":"Alwi Assegaf",
       "image":"https://yobendeveloper.github.io/img/vcalwiassegaf.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcalwiassegaf"
+    },
+    {
+      "id": 98,
+      "title":"MiawAug",
+      "image":"https://yobendeveloper.github.io/img/vcmiawaug.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcmiawaug"
+    },
+    {
+      "id": 100,
+      "title":"N.A.Y",
+      "image":"https://yobendeveloper.github.io/img/vcnaisaalifiayuriza.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcnaisaalifiayuriza"
     },
     {
       "id": 101,
@@ -330,6 +342,12 @@
       "title":"Maitsa Chantika",
       "image":"https://yobendeveloper.github.io/img/vcmaitsachantika.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcmaitsachantika"
+    },
+    {
+      "id": 119,
+      "title":"Nissa Sabyan",
+      "image":"https://yobendeveloper.github.io/img/vcnissasabyan.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcnissasabyan"
     }
   ]
 
