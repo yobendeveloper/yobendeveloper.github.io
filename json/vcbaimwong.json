@@ -5,15 +5,15 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
       "backup_mode": "0",
-      "select_ads": "APPLOVIN",
+      "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
       
       "admob_inter": "ca-app-pub-9242128344326667/4906903944",
       "admob_native": "ca-app-pub-9242128344326667/5515270429",
 
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
+      "fan_inter": "281178663532763_281178736866089",
+      "fan_banner_native": "281178663532763_281178733532756",
+      "fan_native": "281178663532763_281178726866090",
 
       "startappid": "205065498",
       "interval":4

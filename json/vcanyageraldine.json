@@ -4,8 +4,8 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
-      "backup_mode": "1",
-      "select_ads": "ADMOB",
+      "backup_mode": "0",
+      "select_ads": "APPLOVIN",
       "select_backup_ads":"FACEBOOK",
       
       "admob_inter": "ca-app-pub-9242128344326667/8376990060",
@@ -14,6 +14,7 @@
       "fan_inter": "261358122528480_261358175861808",
       "fan_banner_native": "261358122528480_261358182528474",
       "fan_native": "261358122528480_261358179195141",
+      "keterangan": "DITOLAK_FACEBOOK",
 
       "startappid": "205065498",
       "interval":4
