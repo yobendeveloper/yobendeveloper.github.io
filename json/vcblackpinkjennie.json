@@ -4,16 +4,16 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
-      "backup_mode": "0",
-      "select_ads": "APPLOVIN",
+      "backup_mode": "1",
+      "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
       
       "admob_inter": "ca-app-pub-9242128344326667/5480569261",
       "admob_native": "ca-app-pub-9242128344326667/9731284390",
 
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
+      "fan_inter": "560086995338076_560087048671404",
+      "fan_banner_native": "560086995338076_560087045338071",
+      "fan_native": "560086995338076_560087038671405",
 
       "startappid": "205065498",
       "interval":4
