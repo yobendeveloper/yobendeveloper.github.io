@@ -4,9 +4,9 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
-      "backup_mode": "1",
+      "backup_mode": "0",
       "select_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN",
+      "select_backup_ads":"FACEBOOK",
       
       "admob_inter": "ca-app-pub-9242128344326667/8820677343",
       "admob_native": "ca-app-pub-9242128344326667/6194514009",
