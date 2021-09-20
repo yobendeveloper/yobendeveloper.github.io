@@ -8,9 +8,9 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"FAN",
 
-      "main_ads_banner": "ca-app-pub-9242128344326667/8178999733",
-      "main_ads_intertitial":"ca-app-pub-9242128344326667/4810121435",
-      "native_for_admob":"ca-app-pub-9242128344326667/8370571429",
+      "main_ads_banner": "YOUR_PLACEMENT_ID",
+      "main_ads_intertitial":"YOUR_PLACEMENT_ID",
+      "native_for_admob":"YOUR_PLACEMENT_ID",
 
       "fan_ads_banner": "YOUR_PLACEMENT_ID",
       "fan_ads_intertitial":"YOUR_PLACEMENT_ID",
