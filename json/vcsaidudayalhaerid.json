@@ -4,13 +4,13 @@
       "status_app": "0",
       "link_redirect": "https://",
 
-      "more_app":"0",
+      "more_app":"1",
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"FAN",
+      "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_banner": "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial":"YOUR_PLACEMENT_ID",
-      "native_for_admob":"YOUR_PLACEMENT_ID",
+      "main_ads_banner": "ca-app-pub-9242128344326667/5279775163",
+      "main_ads_intertitial":"ca-app-pub-9242128344326667/3488181349",
+      "native_for_admob":"ca-app-pub-9242128344326667/2175099672",
 
       "fan_ads_banner": "YOUR_PLACEMENT_ID",
       "fan_ads_intertitial":"YOUR_PLACEMENT_ID",

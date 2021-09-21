@@ -92,6 +92,12 @@
       "image":"https://yobendeveloper.github.io/img/vcmontpantoja.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcmontpantoja"
     },
+    {
+      "id": 15,
+      "title":"Rod Contreras",
+      "image":"https://yobendeveloper.github.io/img/vcrodrigocontreras.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcrodrigocontreras"
+    },
 
 
     
@@ -348,6 +354,36 @@
       "title":"Nissa Sabyan",
       "image":"https://yobendeveloper.github.io/img/vcnissasabyan.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcnissasabyan"
+    },
+    {
+      "id": 120,
+      "title":"Ria Ricis",
+      "image":"https://yobendeveloper.github.io/img/vcriaricis.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcriaricis"
+    },
+    {
+      "id": 121,
+      "title":"Rizky Febian",
+      "image":"https://yobendeveloper.github.io/img/vcrizkyfebian.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcrizkyfebian"
+    },
+    {
+      "id": 122,
+      "title":"Said",
+      "image":"https://yobendeveloper.github.io/img/vcsaidudayalhaerid.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcsaidudayalhaerid"
+    },
+    {
+      "id": 123,
+      "title":"Said Dinda",
+      "image":"https://yobendeveloper.github.io/img/vcsaiddinda.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcsaiddinda"
+    },
+    {
+      "id": 124,
+      "title":"Reybong Sandrinna",
+      "image":"https://yobendeveloper.github.io/img/vcreybongandsandrinna.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.yaudah.vcreybongandsandrinna"
     }
   ]
 
