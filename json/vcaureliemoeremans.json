@@ -6,7 +6,7 @@
       
       "backup_mode": "0",
       "select_ads": "FACEBOOK",
-      "select_backup_ads":"FACEBOOK",
+      "select_backup_ads":"ADMOB",
       
       "admob_inter": "ca-app-pub-9242128344326667/6089985496",
       "admob_native": "ca-app-pub-9242128344326667/2481912970",
